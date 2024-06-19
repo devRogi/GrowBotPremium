@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/devRogi/GrowBott/blob/main/icon_48.png" width="154">
+  <img src="https://github.com/devRogi/images/blob/main/GrowBotIMG/icon_48.png" width="140">
   <h1 align="center">GrowBot Automator para Instagram</h1>
   <p align="center"><b>GrowBot</b> permite que você realize várias ações automatizadas.</p>
    <p align="center">
@@ -42,7 +42,7 @@
 <br />
 
 <p align="center">
-  <img src= "https://github.com/devRogi/GrowBotPremium/assets/62519017/0bee440d-27f9-4828-85af-36d860a95dffalt"/>
+  <img src= "https://github.com/devRogi/GrowBotPremium/assets/62519017/0bee440d-27f9-4828-85af-36d860a95dffalt"  = " width="750px"/>
 </p>
 
 > [!IMPORTANTE]
@@ -55,13 +55,13 @@
 **PASSO 3** Vá para [ chrome://extensions/ ] e ative o modo desenvolvedor.
 
 <p align="center">
-	<img src="https://github.com/devRogi/GrowBott/blob/main/chromedesenvolvedor.png" alt="InstaPy reach" width="650px"/>
+	<img src="https://github.com/devRogi/images/blob/main/GrowBotIMG/chromedesenvolvedor.png" = " width="850px"/>
 </p>
 
 **PASSO 4** Uma vez que o modo desenvolvedor está ativado, agora basta carregar a pasta descompactada. E pronto, você pode usá-lo agora.
 
 <p align="center">
-	<img src="https://github.com/devRogi/GrowBott/blob/main/chromedesenvolvedor1.png" alt="InstaPy reach" width="650px"/>
+	<img src="https://github.com/devRogi/images/blob/main/GrowBotIMG/chromedesenvolvedor1.png" = " width="850px"/>
 </p>
 
 ## Créditos 	
