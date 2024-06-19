@@ -42,8 +42,8 @@
 <br />
 
 <p align="center">
-  ![Texto Alternativo](https://github.com/devRogi/images/blob/main/GrowBotIMG/Captura%20de%20tela%202024-05-14%20104512.png)
-	
+  ![Captura de tela 2024-05-14 104512](https://github.com/devRogi/GrowBotPremium/assets/62519017/0bee440d-27f9-4828-85af-36d860a95dff)
+
 > [!IMPORTANTE]
 > ## Como Usar
 
