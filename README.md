@@ -42,7 +42,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/devRogi/GrowBott/blob/main/Captura%20de%20tela%202024-05-14%20104512.png" width="1400">
+  ![Logo da Minha Empresa]([https://exemplo.com/logo.png](https://github.com/devRogi/images/blob/main/GrowBotIMG/Captura%20de%20tela%202024-05-14%20104512.png))
 	
 > [!IMPORTANTE]
 > ## Como Usar
